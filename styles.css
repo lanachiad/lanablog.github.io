@@ -33,14 +33,14 @@ p {
 	display: table;
 	margin: 0 auto;
 	margin-top: 50px;
-	padding: 30px;
+	padding: 50px;
 	position: relative;
 	width: 80%;
 }
 
 #recipe-about {
 	position: absolute;
-	right: 30px;
+	right: 50px;
 	width: 50%;
 }
 
