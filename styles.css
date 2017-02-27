@@ -23,3 +23,37 @@ p {
 #title p {
 	text-align: center;
 }
+
+#recipe-box {
+	border: 2px black solid;
+	border-radius: 4px;
+	display: table;
+	margin: 0 auto;
+	margin-top: 50px;
+	padding: 30px;
+	position: relative;
+	width: 80%;
+}
+
+#recipe-about {
+	position: absolute;
+	right: 30px;
+	width: 50%;
+}
+
+#recipe-about h2 {
+	margin: 0;
+}
+
+#recipe-image {
+	position: relative;
+	width: 50%;
+}
+
+#recipe-image img {
+	width: 300px;
+}
+
+#recipe {
+
+}
