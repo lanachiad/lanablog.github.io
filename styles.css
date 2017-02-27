@@ -1,3 +1,25 @@
 body {
-	background-color: blue;
+	background-color: orange;
+}
+
+#container {
+	background-color: white;
+	margin: 50px;
+	padding: 30px;
+}
+
+h1, h2, h3 {
+	font-family: 'Baloo', cursive;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+}
+
+#title p {
+	text-align: center;
 }
