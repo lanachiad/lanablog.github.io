@@ -3,7 +3,9 @@ body {
 }
 
 #container {
-	background-color: white;
+	background-color: bisque;
+	border: 1px black solid;
+	border-radius: 4px;
 	margin: 50px;
 	padding: 30px;
 }
@@ -25,6 +27,7 @@ p {
 }
 
 #recipe-box {
+	background-color: white;
 	border: 2px black solid;
 	border-radius: 4px;
 	display: table;
