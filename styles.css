@@ -57,6 +57,26 @@ p {
 	width: 300px;
 }
 
-#recipe {
+table {
+	width: 100%;
+	font-family: 'Open Sans', sans-serif;
+}
 
+th {
+	background-color: orange;
+	font-weight: 800; 
+	padding: 5px;
+	text-align: center;
+}
+
+td {
+	padding: 5px;
+}
+
+.light-blue {
+	background-color: lightblue;
+}
+
+.gray {
+	background-color: #e9e9e9;
 }
