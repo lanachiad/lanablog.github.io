@@ -102,3 +102,28 @@ ol li {
 	padding-bottom: 3px;
 	padding-top: 3px;
 }
+
+
+
+@media (max-width: 700px) {
+	#recipe-box {
+		display: block;
+		width: auto;
+	}
+}
+
+@media (max-width: 1234px) {
+	#recipe-about {
+		position: static;
+		width: 100%;
+	}
+
+	#recipe-image {
+		margin: 0 auto;
+		width: 100%;
+	}
+
+	#recipe-image img {
+		width: 100%;
+	}
+}
