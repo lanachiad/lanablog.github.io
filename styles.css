@@ -15,10 +15,15 @@ h1, h2, h3 {
 }
 
 h1 {
+	font-size: 2.5em;
 	text-align: center;
 }
 
-p, table, ol {
+h3 {
+	font-size: 1.75em;
+}
+
+p, a, table, ol {
 	font-family: 'Open Sans', sans-serif;
 }
 
@@ -38,6 +43,19 @@ p, table, ol {
 	width: 80%;
 }
 
+a {
+	color: orange;
+	margin: 5px 0;
+}
+
+a:hover {
+	color: gray;
+}
+
+a:visited {
+	color: darkred;
+}
+
 #recipe-about {
 	position: absolute;
 	right: 50px;
@@ -54,7 +72,7 @@ p, table, ol {
 }
 
 #recipe-image img {
-	width: 300px;
+	width: 350px;
 }
 
 table {
